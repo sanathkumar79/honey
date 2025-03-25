@@ -1,0 +1,219 @@
+
+html{
+  scroll-behavior:smooth;
+  
+}
+body{
+  margin:0px;
+  padding:0px;
+}
+.sana{
+  display: flex;
+  width:1500px;
+  height:300px; 
+ background-color:#8F33AD;
+}
+
+.sana:hover{
+  background-color:#2C66B5;
+transition: color 1s ease-in-out;
+}
+
+
+.wgl img{
+  display:flex;
+  width:200px;
+  height:200px;
+  border-radius:50%;
+padding-top:10px;
+padding-bottom:5px;
+margin-top:15px;
+
+  
+}
+
+.honey{
+  width:1500px;
+  height:300px;
+background-color:#2C93AE;
+margin-top:3000px;
+position:sticky;
+  
+}
+
+.sanath{
+  margin-left: 100px;
+padding-top:150px;
+}
+
+.sanath a{
+display:inline;
+text-decoration: none;
+margin-left:90px;
+font-size:30px;
+font-family: sans-serif;
+color:white;
+
+  
+}
+
+h1{
+  text-align: center;
+  font-size: 100px;
+  font-family:serif;
+}
+
+.Home img{ 
+  margin-left:100px;
+  
+}
+
+.Home p{
+  
+  margin-left:100px;
+font-size:40px;
+
+  
+}
+
+.Home h2{
+font-family:serif;
+text-align:center;
+font-size:40px;
+color:green;
+  text-decoration-line:underline;
+  text-decoration-color: red;
+  
+}
+
+.Home h2:hover{
+  color: darkblue;
+  
+}
+.Home p:hover{
+  color:#B52CA1;
+  transform: scale(1.1);
+  transition-duration: 3s;
+  
+  
+}
+
+.Home img:hover{
+transform: scale(1.3);
+transition-duration: 4s;
+}
+
+.wgl img:hover{
+  transform:scale(1.3);
+  transition-delay: 3s;
+}
+
+h1:hover{
+  color:#2CB5A2;
+  transition-duration: 5s;
+}
+
+.sanath a:hover{
+  color:#B5662C;
+  
+}
+.lucky h2{
+  text-align:center;
+  font-size:100px;
+  font-family:serif;
+}
+.Bestiee img{
+  width:400px;
+  height:600px;
+  margin-left:200px;
+  border-radius:50%;
+  
+}
+.India h4{
+  text-align:center;
+  font-size:40px;
+  font-family: Arial, Helvetica, sans-serif;
+  color:#72B4CA;
+  text-decoration-line:underline;
+  text-decoration-color:#6B7122;
+}
+.India p{
+  text-align:center;
+  font-size:30px;
+  color:#EE93BE
+  
+}
+
+.Bestiee img:hover{
+  transform: scale(1.3);
+  transition-duration: 5s;
+  
+}
+.India p:hover{
+  color:#F44315;
+  transform:scale(1.1);
+  transition-duration: 3s;
+  
+}
+
+.chinnu h5{
+  text-align:center;
+  font-size:100px;
+  font-family:serif;
+  
+}
+.Has p{
+  margin-left:30px;
+  font-size:40px;
+  color:#2DE3AE;
+  
+}
+.Has p:hover{
+ color:#2D5AE3;
+ transition-duration: 3s;
+  
+}
+.jithu h2{
+  text-align:center;
+  font-size:100px;
+  font-family:serif;
+  
+}
+.login-container{
+  width:800px;
+  height:600px;
+}
+.honey marquee{
+  padding-top:100px;
+  font-size:100px;
+  color:#6FA314;
+  
+}
+.jithu p{
+  margin-left:90px;
+  font-size:40px;
+}
+.Jithanksha{
+  margin-left:100px;
+  width:1000px;
+  height:800px;
+  background-color:#545458;
+  border-radius:50px;
+  
+}
+
+.Jithanksha h7{
+  font-size:50px;
+  
+}
+input{
+  width:300px;
+  height:50px;
+  
+}
+button{
+  margin-left:250px;
+  font-size:50px;
+  border-radius:1000px;
+  
+}
